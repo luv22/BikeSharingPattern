@@ -1,6 +1,6 @@
 Using only Numpy to implement forward and back propagation to predict Bike-Sharing Patterns.
 
-![GitHub Logo](/assets/neural_network.png)
+![GitHub Logo](/nn.jpg)
 The data comes from: [UCI Machine Learning Database](https://archive.ics.uci.edu/ml/datasets/Bike+Sharing+Dataset)
 
 ## Conclusions
